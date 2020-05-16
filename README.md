@@ -1,7 +1,7 @@
 # Demo
 Demo page for edunomics
 
-#Documentation
+# Documentation
 src contains the HTML Files<br/>
 public contains the bootstrap and jquery files<br/>
 js contains the app.js file, which has react code for landing page(index.html)
