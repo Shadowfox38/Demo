@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.14",
+    "express": "^4.17.1",
+    "material-ui": "^0.20.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
