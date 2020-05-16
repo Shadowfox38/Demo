@@ -1,6 +1,3 @@
-# Demo
-Demo page for edunomics
-
 # Documentation
 src contains the HTML Files<br/>
 public contains the bootstrap and jquery files<br/>
